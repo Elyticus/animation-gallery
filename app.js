@@ -14,5 +14,4 @@ function renderImg() {
     container.innerHTML += `<div class="gall-img" style="background-image: url(${images[i]})">`;
   }
 }
-
 renderImg();
