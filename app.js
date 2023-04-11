@@ -4,7 +4,6 @@ const images = [
   "imgs/41.png",
   "imgs/5.png",
   "imgs/52.png",
-  "imgs/17.png",
 ];
 
 const container = document.getElementById("container");
